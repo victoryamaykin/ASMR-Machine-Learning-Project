@@ -12,6 +12,6 @@
 
 ![Duration vs. Duration Tingle Scatter Plot](/images/with_outliers.png)
 
-**and without potential outliers)** 
+**and without potential outliers** 
 
 ![Duration vs. Duration Tingle Scatter Plot Without Outliers](/images/without_outliers.png)
